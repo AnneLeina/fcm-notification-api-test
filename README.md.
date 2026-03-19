@@ -1,0 +1,53 @@
+# Firebase Cloud Messaging (FCM) API Test - AI Captone Project
+
+## 📋 Overview
+
+This is a beginner-friendly learning project for testing and building with *Firebase Cloud Messaging (FCM)* - Google's notification and messaging service.
+
+*What You'll Learn:*
+- ✅ How to set up Firebase project and authentication
+- ✅ How to send notifications via FCM API
+- ✅ Error handling and troubleshooting
+- ✅ Best practices for notification delivery
+- ✅ API testing and integration
+
+*Project Status:* ✅ Beginner Learning Project  
+*Language:* Python 3.8+  
+*Last Updated:* March 2026
+
+---
+
+##  Quick Start (5 Minutes)
+
+### Prerequisites
+- Python 3.8 or higher
+- Google account (for Firebase)
+- VS Code or any code editor
+- Internet connection
+
+### Installation
+
+```bash
+# 1. Clone this repository
+git clone https://github.com/AnneLeinaStep/fcm-notification-api-test.git
+cd fcm-notification-api-test
+
+# 2. Create virtual environment
+python -m venv venv
+
+# 3. Activate virtual environment
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+
+# 4. Install dependencies
+pip install -r requirements.txt
+
+# 5. Set up Firebase credentials
+# See SETUP.md for detailed instructions
+
+# 6. Run the minimal example
+python src/fcm_minimal_example.py
+✓ Firebase Client Initialized Successfully!
+✓ Test Message Sent Successfully
