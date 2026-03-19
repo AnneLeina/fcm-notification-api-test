@@ -49,5 +49,3 @@ pip install -r requirements.txt
 
 # 6. Run the minimal example
 python src/fcm_minimal_example.py
-✓ Firebase Client Initialized Successfully!
-✓ Test Message Sent Successfully
